@@ -100,8 +100,8 @@ dynamic-parking-pricing-capstone/
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/dynamic-parking-pricing-capstone.git
-cd dynamic-parking-pricing-capstone
+[git clone https://github.com/yourusername/dynamic-parking-pricing-capstone.git
+cd dynamic-parking-pricing-capstone](https://github.com/kunalSingh026/Dynamic_Pricing_Hackathon_Submission.git)
 ```
 
 2. **Install Dependencies**
