@@ -87,7 +87,7 @@ dynamic-parking-pricing-capstone/
 │
 ├── README.md              # Project documentation (this file)
 ├── architecture.png       # Exported architecture diagram (Mermaid-generated)
-├── notebook.ipynb         # Final, error-free simulation notebook
+├── Dynamic_Pricing_Hackathon_Submission.ipynb         # Final, error-free simulation notebook
 ├── dataset.csv            # Sample dataset for testing
 ├── report.pdf (optional)  # Formal project report (optional)
 └── requirements.txt       # Required Python packages
